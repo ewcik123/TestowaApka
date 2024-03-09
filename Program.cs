@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Siema kochana talenciaro!!");
+﻿Console.WriteLine("Siema kochana talenciaro!");
